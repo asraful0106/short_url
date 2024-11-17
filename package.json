@@ -1,0 +1,17 @@
+{
+  "name": "short-url",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1",
+    "short-unique-id": "^5.2.0"
+  }
+}
